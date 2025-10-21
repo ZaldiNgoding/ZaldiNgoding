@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZaldiNgoding
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning JS
-- 📫 How to reach me https://www.instagram.com/_zaldifzn/
 
 
 <!---
